@@ -1,4 +1,4 @@
-export default function FavoriteFood() {
+export function FavoriteFood() {
   return (
     <>
       <h2>Favorite Food</h2>
